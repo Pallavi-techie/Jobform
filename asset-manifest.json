@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jobform/static/css/main.4dcd91e9.css",
+    "main.js": "/Jobform/static/js/main.d66ef6d3.js",
+    "static/js/453.0355f3a8.chunk.js": "/Jobform/static/js/453.0355f3a8.chunk.js",
+    "index.html": "/Jobform/index.html",
+    "main.4dcd91e9.css.map": "/Jobform/static/css/main.4dcd91e9.css.map",
+    "main.d66ef6d3.js.map": "/Jobform/static/js/main.d66ef6d3.js.map",
+    "453.0355f3a8.chunk.js.map": "/Jobform/static/js/453.0355f3a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dcd91e9.css",
+    "static/js/main.d66ef6d3.js"
+  ]
+}
